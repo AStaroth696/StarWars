@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Star Wars</string>
+    <string name="connectivity_error">No connection...</string>
+    <string name="starships">STARSHIPS</string>
+    <string name="films">FILMS</string>
+    <string name="vehicles">VEHICLES</string>
+    <string name="btn_open">Open in Browser</string>
+</resources>
